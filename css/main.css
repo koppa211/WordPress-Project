@@ -265,8 +265,9 @@ h2.tittle {
 }
 .present .present_img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto;   ВМЕСТО ЭТОГО*/
+  margin: 0 auto;
 }
 .present .present_text {
   margin-top: 45px;
@@ -306,8 +307,9 @@ h2.tittle {
 }
 .webinar_man {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto;   ВМЕСТО ЭТОГО*/
+  margin: 0 auto;
 }
 .webinar .webinar_text {
   margin-top: 37px;
